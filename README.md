@@ -1,6 +1,6 @@
 # Full Stack Django Cloud Dev Project
 ### _A cloud-hosted web-app for a car dealership's car reviewal platform_
-
+ 
 This repo contains the code for a Django [web application](https://sr-django-capstone.eu-de.mybluemix.net/djangoapp/) hosted in the IBM Cloud. 
 
 #### Background
